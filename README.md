@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
