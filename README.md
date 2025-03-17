@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
