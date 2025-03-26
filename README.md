@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 ## Counting
 |  |
