@@ -9,18 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
 |  |
