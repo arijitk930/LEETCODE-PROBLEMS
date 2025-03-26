@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Counting
 |  |
 | ------- |
