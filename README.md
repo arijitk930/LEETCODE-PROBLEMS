@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Prefix Sum
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Counting
 |  |
@@ -104,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
