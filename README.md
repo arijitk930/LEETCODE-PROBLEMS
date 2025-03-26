@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
@@ -70,15 +72,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
