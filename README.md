@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arijitk930/LEETCODE-PROBLEMS/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Prefix Sum
